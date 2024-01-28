@@ -1,4 +1,5 @@
-# 1021번 회전하는 코드 (내코드)
+# 1021번 회전하는 코드 
+# 내코드
 from collections import deque
 N,M = map(int,input().split())
 order = list(map(int,input().split()))
