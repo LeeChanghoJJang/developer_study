@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    .bigbox{
+      border:1px solid black;
+      width:360px;
+      height:560px;
+      display:flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      align-content: flex-start;
+
+    }
+    .container{
+      width:360px;
+      height:400px;
+      position: relative;
+      display: flex;
+      justify-content: center;
+
+    }
+    .nametag{
+      position: absolute;
+      bottom:0px;
+      width:320px;
+      height:50px;
+      font-size: 28px;
+      background-color: lightsalmon;
+      display:flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: bold;
+      margin:0px;
+    }
+    .contents{
+      width:320px;
+
+    }
+
+  </style>
+</head>
+<body>
+  <div class="bigbox">
+    <div class="container">
+      <img src="profile.jpg" alt="Profile Image" style="width:350px;height:400px;">
+      <p class="nametag">Name</p>
+    </div>
+    <p class="contents">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci unde officiis ad nostrum. Laboriosam mollitia similique provident fuga tenetur saepe sit, amet eaque neque eius quaerat expedita ea illum veniam.</p>
+  </div>
+</body>
+</html>
