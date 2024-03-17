@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Data%20Processing%20Using%20API%20&fontAlign=50&fontAlignY=30&fontColor=A3DCBE&fontSize=65&animation=scaleIn&desc=Finance%20data%20collecton&descSize=40&descAlign=73&descAlignY=55)
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)![visual studio code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)![html](https://img.shields.io/badge/html-E34F26?style=flat&logo=html&logoColor=white)
+![django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=white)
 
 출처: https://yoon990.tistory.com/38 [개발저장소:티스토리]
 ---
