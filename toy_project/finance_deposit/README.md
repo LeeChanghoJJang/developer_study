@@ -8,12 +8,9 @@
 출처 : https://kr.freepik.com/free-vector/flat-design-api-infographic_25001333.htm#query=api%20%EC%BD%94%EB%93%9C&position=0&from_view=keyword&track=ais&uuid=9e4f1947-56ee-46e5-8c9d-9fb884f14883
 
 ## 📶 목차
-  - <span style="font-size:130%"> [학습 내용](#학습-내용)
-  </span>
-  - <span style="font-size:130%"> [어려운 점](#어려운-점)
-  </span>
-  - <span style="font-size:130%"> [보완점](#보완점)
-  </span>
+  - <span style="font-size:130%"> [학습 내용](#학습-내용)</span>
+  - <span style="font-size:130%"> [어려운 점](#어려운-점)</span>
+  - <span style="font-size:130%"> [보완점](#보완점)</span>
   
 ## ✍ 학습 내용 
   - <span style="font-size:120%"> `Requests`를 이용한 Url로 HTTP 요청
