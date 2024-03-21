@@ -11,7 +11,7 @@
   - <span style="font-size:130%"> [보완점](#보완점)</span>
   
 ## ✍ 학습 내용 
-  - <span style="font-size:120%"> **`problem_a`** : 샘플 도서 데이터(`json` 파일)에 있는 정보 추출하기
+  - <span style="font-size:120%"> **problem_a** : 샘플 도서 데이터(`json` 파일)에 있는 정보 추출하기
   </span>
   - <span style="font-size:120%"> **`problem_b`** : 카테고리 데이터를 활용하여 기존 도서 데이터의 categoryid를 categoryname으로 바꾸어 추출하기 </span>
   - <span style="font-size:120%"> **`problem_c`** : 하나의 데이터가 아닌 다중 데이터를 수정하여 필요한 정보만 추출하기</span>
