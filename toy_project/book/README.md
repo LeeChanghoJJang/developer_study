@@ -13,12 +13,12 @@
 ## ✍ 학습 내용 
   - <span style="font-size:120%"> **problem_a** : 샘플 도서 데이터(`json` 파일)에 있는 정보 추출하기
   </span>
-  - <span style="font-size:120%"> **`problem_b`** : 카테고리 데이터를 활용하여 기존 도서 데이터의 categoryid를 categoryname으로 바꾸어 추출하기 </span>
-  - <span style="font-size:120%"> **`problem_c`** : 하나의 데이터가 아닌 다중 데이터를 수정하여 필요한 정보만 추출하기</span>
-  - <span style="font-size:120%"> **`problem_d`** : 도서의 `리뷰 평점`이 가장 높은 도서를 출력하는 알고리즘 작성</span>
-  - <span style="font-size:120%"> **`problem_e`** : 도서의 `출판연도`를 이용하여 모든 도서 중 2023년에 출판한 도서들의 제목 출력하기 </span> 
-  - <span style="font-size:120%"> **`problem_f1`** : 2023년 출판 도서 중 회원 리뷰 평점이 가장 높은 도서 제목 출력하기 </span>
-  - <span style="font-size:120%"> **`problem_f2`** : 특정 카테고리의 도서들을 판매가격이 높은 순서대로 정렬한 리스트 출력하기 </span>
+  - <span style="font-size:120%"> **problem_b** : 카테고리 데이터를 활용하여 기존 도서 데이터의 categoryid를 categoryname으로 바꾸어 추출하기 </span>
+  - <span style="font-size:120%"> **problem_c** : 하나의 데이터가 아닌 다중 데이터를 수정하여 필요한 정보만 추출하기</span>
+  - <span style="font-size:120%"> **problem_d** : 도서의 `리뷰 평점`이 가장 높은 도서를 출력하는 알고리즘 작성</span>
+  - <span style="font-size:120%"> **problem_e** : 도서의 `출판연도`를 이용하여 모든 도서 중 2023년에 출판한 도서들의 제목 출력하기 </span> 
+  - <span style="font-size:120%"> **problem_f1** : 2023년 출판 도서 중 회원 리뷰 평점이 가장 높은 도서 제목 출력하기 </span>
+  - <span style="font-size:120%"> **problem_f2** : 특정 카테고리의 도서들을 판매가격이 높은 순서대로 정렬한 리스트 출력하기 </span>
 
   ### Problem_a
   1. <span style="font-size:110%">`for` 반복문 또는 딕셔너리 컴프리헨션을 활용하여 딕셔너리 데이터 만들기</span>
