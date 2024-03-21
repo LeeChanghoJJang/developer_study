@@ -13,11 +13,11 @@
   - <span style="font-size:130%"> [보완점](#보완점)</span>
   
 ## ✍ 학습 내용 
-  - <span style="font-size:120%"> `Requests`를 이용한 Url로 HTTP 요청
+  - <span style="font-size:120%"> problem_a : Open API를 이용하여 정기예금의 key값 출력하기
   </span>
-
-  - <span style="font-size:120%">`오픈 API`를 이용한 정기적금 API 요청</span>
-  - <span style="font-size:120%">요구사항에 맞게 Raw 데이터 가공</span>
+  - <span style="font-size:120%"> problem_b : 정기예금 상품 리스트 정보만 출력하기 </span>
+  - <span style="font-size:120%"> problem_c : 정기예금 상품들의 옵션 리스트를 출력하기</span>
+  - <span style="font-size:120%"> problem_d : 금융회사명, 금융상품명, 금리정보 등 새로운 값들을 생성하여 추출하ㄱ</span>
 
 ## 🤣 어려운 점
   - <span style="font-size:120%">데이터 추출보다 **원하는 형태**로 가공하는 것이 어려움</span>

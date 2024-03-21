@@ -3,11 +3,11 @@ from pprint import pprint
 
 
 def book_info(book):
-    new_dict ={}
-    for i in ['author','categoryId','cover','description','id','priceSales','title']:
-        new_dict[i]=book[i]
+    # new_dict ={}
+    # for i in ['author','categoryId','cover','description','id','priceSales','title']:
+    #     new_dict[i]=book[i]
+    new_dict = {i : book[i] for i in ['author','categoryId','cover','description','id','priceSales','title']}
     return new_dict
-    # 여기에 코드를 작성합니다.
 
 
 # 아래의 코드는 수정하지 않습니다.
