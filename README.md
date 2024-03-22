@@ -12,27 +12,27 @@
 
 ## 2. Repository **목차** 및 **내용요약**
 
-<span style="font-size:130%; font-weight:bold; color:skyblue; text-decoration:None;"> 1. [Algorithm](#Algorithm) </span>
+<span style="font-size:130%; font-weight:bold; color:skyblue; text-decoration:None;"> 1. **Algorithm** </span>
 
 + 백준, SWEA를 통한 알고리즘 문제풀이(백준 실버 ~ 골드) 
 - 각 알고리즘 유형별 템플릿 정리(`Dijkstra`, `MST` 등) 
 
-<span style="font-size:130%; font-weight:bold; color:skyblue;"> 2. [Data](#Data)</span>
+<span style="font-size:130%; font-weight:bold; color:skyblue;"> 2. **Data**</span>
 
 + Pandas의 DataFrame, Series 익숙하게 사용하기
 - Plotly, matplotlib을 이용한 데이터 시각화
 + scikitlearn 및 keras를 이용한 머신러닝 모델 구축   
 
-<span style="font-size:130%; font-weight:bold; color:skyblue;"> 3. [Django](#Django) </span>
+<span style="font-size:130%; font-weight:bold; color:skyblue;"> 3. **Django** </span>
 
 + MTV 패턴 익히기(Model, Templates, View)
 - ORM 개념 익히기 
 
-<span style="font-size:130%; font-weight:bold; color:skyblue;"> 4. [toy_project](#toy-project) </span>
+<span style="font-size:130%; font-weight:bold; color:skyblue;"> 4. **toy-project** </span>
 
 + API를 이용한 데이터 수집 및 정제 
 
-<span style="font-size:130%; font-weight:bold; color:skyblue;"> 5. [Web](#Web) </span>
+<span style="font-size:130%; font-weight:bold; color:skyblue;"> 5. **Web** </span>
 
 + 반응형 웹 페이지 구축하기
 - CSS 익히기(Box Model, Position 위주)
